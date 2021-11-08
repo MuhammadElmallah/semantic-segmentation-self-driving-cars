@@ -7,8 +7,11 @@ The dataset provides data images and labeled semantic segmentations captured via
 The dataset consists of 5000 images along with their 5000 masks.
 
 For this task U-net architecture was trained and the model accuracies were as follows:
+
       Training Accuracy : 98.93 %
+
       Validation Accuracy : 98.64 %
+      
       Testing Accuracy : 98.68
 
 
